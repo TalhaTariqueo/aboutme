@@ -1,0 +1,55 @@
+body{
+    background: #333333;
+    color: #fff;
+}
+
+.container .fab{
+    font-size: 40px;
+    color: red;
+}
+
+.navbar{
+    border-bottom: 3px solid #a10606;
+    background: #2e2f2f;
+    opacity: 0.7;
+}
+
+#home-section{
+    background: url(../image/me.jpg) no-repeat
+    center top;
+    background-size: cover;
+    min-height: 700px;
+    background-attachment: fixed;
+}
+
+#home-section .dark-overlay{
+    background: rgba(0,0,0,0.7);
+    min-height: 700px; 
+}
+
+#home-section .home-inner{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    padding-left: 90px;
+}
+
+#home-section .far{
+    color: rgb(151, 6, 6);
+    font-size: 40px;
+}
+
+#city-main-section .fas{
+    color: rgb(179, 10, 10);
+    font-size: 40px;
+}
+
+#city-main-section .fas{
+    color: rgb(46, 2, 104);
+    font-size: 40px;
+}
+
+#institution-main-section .fas{
+    color: rgb(177, 9, 59);
+    font-size: 40px;
+}
+
